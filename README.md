@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alisonais
 - 👀 estou interessado em entrar para o ramo de programação.  
-- 🌱 atualmente estou estudando na Alura, html, CSS, Javascript
+- 🌱 atualmente estou estudando na Alura, html, CSS, Javascript, react js
 - 🌱 estou buscando colaborar com qualquer projeto que meu conhecimento e tempo permitir.
 
 <!---
