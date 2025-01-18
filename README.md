@@ -45,7 +45,7 @@ No momento que estou criando esta contribuição estou buscando trasição de ca
         <a href="https://orcamento.rinaldocar.com.br"><span>sistema para elaborar orçamento para uma oficina de funilaria e pintura</span></a>
     </li>
     <li>
-        <a href="https://www.linkedin.com/company/clientcraft/about/"><span>Colabori com o desenvolvimento de features, escolha de bibliotecas, estrutura de banco de dados, tanto no front-end quanto back-end</span></a>
+        <a href="https://www.linkedin.com/company/clientcraft/about/"><span>Colaborei com o desenvolvimento de features, escolha de bibliotecas, estrutura de banco de dados, tanto no front-end quanto back-end</span></a>
     </li>
 </ul>
 
